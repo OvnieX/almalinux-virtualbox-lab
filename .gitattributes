@@ -1,0 +1,6 @@
+# Fins de ligne stables ; PowerShell accepte LF, les scripts Bash generes aussi.
+* text=auto
+*.ps1 text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf

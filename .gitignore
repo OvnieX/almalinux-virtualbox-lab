@@ -1,0 +1,26 @@
+# Supports, machines et sorties locales : ne pas publier les secrets generes.
+LabSetup/
+VirtualBox VMs/
+ISO/
+*.iso
+*.viso
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.vbox
+*.vbox-prev
+*.sav
+*.nvram
+*.img
+# Configuration privee : les exemples publics restent suivis.
+*.local.json
+*.local.ps1
+install-password.txt
+root-password.txt
+# Resultats de tests, journaux et caches.
+test-output/
+*.log
+__pycache__/
+*.pyc
+*.zip

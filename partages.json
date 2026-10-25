@@ -1,0 +1,7 @@
+[
+  {
+    "Name": "temp",
+    "HostPath": "C:\\Lab-Partage",
+    "ReadOnly": false
+  }
+]
